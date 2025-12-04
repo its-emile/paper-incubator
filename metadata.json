@@ -1,0 +1,5 @@
+{
+  "name": "PI: Paper Incubator",
+  "description": "An AI-powered paper editor and reviewer for AI safety papers. It uses Gemini agents to draft, edit, and comment on paper sections based on a provided GitHub repository, helping researchers structure their work for conferences like ICML.",
+  "requestFramePermissions": []
+}
